@@ -20,15 +20,6 @@ Cada estructura fue diseñada siguiendo principios de programación orientada a 
 - **Grafo**  
   Implementación de grafos orientados/no orientados con soporte para algoritmos de recorrido (DFS, BFS) y búsqueda de caminos. Representación mediante listas de adyacencia.
 
-## Objetivo del Proyecto
-
-Proveer implementaciones claras y funcionales de estructuras de datos fundamentales para fortalecer la comprensión de conceptos clave como:
-
-- Encapsulamiento
-- Uso de punteros y memoria dinámica
-- Modularidad en el diseño de software
-- Eficiencia algorítmica
-
 ## Requisitos
 
 - **Compilador de C++** compatible con C++17 o superior (por ejemplo, `g++`, `clang++`)
